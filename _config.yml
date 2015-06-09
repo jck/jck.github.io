@@ -6,6 +6,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jck.io" # the base hostname & protocol for your site
 github_username:  jck
 
+permalink: /:year/:month/:title
+
 exclude: ['gems.rb', 'gems.locked', 'Makefile']
 
 # Build settings
