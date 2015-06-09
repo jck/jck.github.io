@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/jck
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jck.io
+  * I am jck (https://keybase.io/jck) on keybase.
+  * I have a public key with fingerprint 95F0 E6D5 61FB 86C0 F58A  20A0 98AC DBF4 2B68 5D96
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "95f0e6d561fb86c0f58a20a098acdbf42b685d96",
+            "host": "keybase.io",
+            "key_id": "98acdbf42b685d96",
+            "kid": "0101f452154bbc544caface8461cc44d83103a8f45e61daae0a29e1c452a8f4b63f50a",
+            "uid": "ca7de3b733b8454dadfee3b8b95b5c00",
+            "username": "jck"
+        },
+        "revoke": {
+            "sig_ids": [
+                "b5ab9607532c2c23222317fb9cb618e273af28379c0c58ee782028eaf0b2e4840f"
+            ]
+        },
+        "service": {
+            "hostname": "jck.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1433850389,
+    "expire_in": 157680000,
+    "prev": "0dc7ba44ef228dbb03c527bf0f690771a737c2f6d87874a2c2ab6c92c6823bd3",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMJYAnicZZJZaFVHGMdv3NCL1kTihiXWY6hKo86Z5cycmwcf6oOID+5N9Go6M2cm
+Od7knuvdTIhBBBFirRqhbXxxCUQUtzZ5MCqicYmKUquliijG0GIrRIQapCWEOicq
+PnTmYfi++X+/b5m5NmFkJFrQevLxwBc1G74vuN29PxdZk78/udESgddgxRqthBo+
+tJ+sVulU2k9mrZjlEg2U4xHH1oI5EmjCOAQcuIxLT2gMhcOI5zpWmVUTZMIIgxE8
+oxb4gfEZo8r3Qs7/9YnhC2ADW2MCbYKFkARjyTWXimHHlhJjjyEbIM6MRDm2x7kC
+HLrKliYk9AoHaQK4weWGcZJTTyFBERIME+xxTytjM+ESQSQAoTCj0klep4x6k0xY
+TWVWWuWDhAqbz/jVpt6MFVtvCcKF6wBKEJRmIwghsqkWrhSOzRSkiGvIEHUlkIQp
+RRkEkCmugYAKMwy0tcGwTbK8L4fh4YA+Jn43oFQ6yAYyqDW+mmw2FQvLyTakQs0W
+JareR1cJP+mZdzEBeZXO+EHSitlGKbN+iLMxQowAxNwyS9Wn/LSq8kMFoQ4DZoVp
+VD4ctiep4BgrDSHzhABIEkiFBtpxAaU2p4hKqB2PUUYxN21z4UgXSodBJDxkhf1s
+TgaGbZs6ebVhmpEleTaXVlbTlcvxUZGCaGTM6BHh14pExxV++HDXysdGThw8MHj9
+zvbDauWDup6luV9nD/wzNOuvGW3Li8d+NVF9ltpXO2e8OL2uPX6stK24uXfprJL4
+T8+f1pbu2Heo+Ui060ZfZdf8KZ2xq5N+CX7c1vPyEbm1Ym3rvMZxx39evZO3HCzC
+T7b25qbPPLzw7rdDn05N3SjcsaTuh6aOXV9uPd/fviyayRV3NnRvmvZfdevZ10UV
+g0f//K3iu745byov7dftO19cutdzK97RWkond96Lb/w9sWdKZO7gqot0cNLnhfXP
+y+2Zox88Q3P7tu1+1dHmXhjw/m258HXv4rufLLrasvfU3zfF0PLyc/X9FxvA7ZLt
+lYs07q8o2ljyTXfNHwV3uH+m62Hz7rdU50Pq
+=Wcct
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jck
+
+==================================================================

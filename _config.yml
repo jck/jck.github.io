@@ -9,6 +9,7 @@ github_username:  jck
 permalink: /:year/:month/:title
 
 exclude: ['gems.rb', 'gems.locked', 'Makefile']
+include: ['.well-known']
 
 # Build settings
 markdown: kramdown
