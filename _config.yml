@@ -12,4 +12,11 @@ exclude: ['gems.rb', 'gems.locked', 'Makefile']
 include: ['.well-known']
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+highlighter: pygments
+
+redcarpet:
+  extensions:
+    - autolink
+    - smart
+    - footnotes
