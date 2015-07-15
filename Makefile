@@ -7,5 +7,8 @@ bundle:
 serve: bundle
 	bundle exec jekyll serve
 
+serve-drafts: bundle
+	bundle exec jekyll serve --drafts
+
 build: bundle
 	bundle exec jekyll build
