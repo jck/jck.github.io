@@ -10,3 +10,6 @@ permalink: /:year/:month/:title
 
 exclude: ['gems.rb', 'gems.locked', 'Makefile']
 include: ['.well-known']
+
+theme: minima
+google_analytics: UA-63900578-1
